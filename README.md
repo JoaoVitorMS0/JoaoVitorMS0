@@ -99,7 +99,3 @@ Sou **CEO e co-fundador** da [AjuCode](http://ajucode.com.br/), uma empresa de d
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoaoVitorMS0&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views"/>
-</div>
