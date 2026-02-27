@@ -76,7 +76,13 @@ Sou **CEO e co-fundador** da [AjuCode](http://ajucode.com.br/), uma empresa de d
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVitorMS0&theme=tokyonight&hide_border=false)
+[![](https://raw.githubusercontent.com/JoaoVitorMS0/JoaoVitorMS0/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)](https://github.com/JoaoVitorMS0)
+
+[![](https://raw.githubusercontent.com/JoaoVitorMS0/JoaoVitorMS0/main/profile-summary-card-output/discord_old_blurple/1-repos-per-language.svg)](https://github.com/JoaoVitorMS0) [![](https://raw.githubusercontent.com/JoaoVitorMS0/JoaoVitorMS0/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)](https://github.com/JoaoVitorMS0)
+
+[![](https://raw.githubusercontent.com/JoaoVitorMS0/JoaoVitorMS0/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/JoaoVitorMS0) [![](https://raw.githubusercontent.com/JoaoVitorMS0/JoaoVitorMS0/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/JoaoVitorMS0)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVitorMS0&theme=discord-old-blurple&hide_border=false)
 
 </div>
 
@@ -92,3 +98,7 @@ Sou **CEO e co-fundador** da [AjuCode](http://ajucode.com.br/), uma empresa de d
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JoaoVitorMS0&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views"/>
+</div>
