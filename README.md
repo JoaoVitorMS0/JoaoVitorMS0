@@ -82,7 +82,6 @@ Sou **CEO e co-fundador** da [AjuCode](http://ajucode.com.br/), uma empresa de d
 
 [![](https://raw.githubusercontent.com/JoaoVitorMS0/JoaoVitorMS0/main/profile-summary-card-output/discord_old_blurple/3-stats.svg)](https://github.com/JoaoVitorMS0) [![](https://raw.githubusercontent.com/JoaoVitorMS0/JoaoVitorMS0/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)](https://github.com/JoaoVitorMS0)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=JoaoVitorMS0&theme=discord-old-blurple&hide_border=false)
 
 </div>
 
